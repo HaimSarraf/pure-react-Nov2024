@@ -1,0 +1,10 @@
+{
+  "boxes": [
+    { "id": 1, "title": "react", "url": "pics/react.png" },
+    { "id": 2, "title": "vue", "url": "/pics/vue.png" },
+    { "id": 3, "title": "angular", "url": "/pics/angular.png" },
+    { "id": 4, "title": "c#", "url": "/pics/csharp.png" },
+    { "id": 5, "title": "nextjs", "url": "/pics/nextjs.png" },
+    { "id": 6, "title": "vite", "url": "/pics/vite.png" }
+  ]
+}
